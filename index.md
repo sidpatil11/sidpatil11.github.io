@@ -4,13 +4,17 @@ layout: default
 
 ## About Me
 
-Hi, I'm Sid (Siddhant) Patil — a freshman in high school and a self-taught developer with about 4-5 years of coding experience. I work mainly in Java, Python, and HTML/CSS/JS, and I'm currently leveling up my Python skills for a bigger project I'm building. Outside of code, I play the flute, play sports, and hang out with friends.
+Hi, I'm Sid (Siddhant) Patil — a freshman in high school and a self-taught developer with about 4-5 years of coding experience. I work mainly in Java, Python, and HTML/CSS/JS, and I'm currently leveling up my Python skills for a bigger project I'm building.
+
+What keeps me hooked on coding is that it turns an idea into something real. I like building tools I actually use — a productivity app I open every day, and projects I put together with friends — and programming has a way of pulling my interests together, from music to just figuring out how things work. Every project teaches me something new, and that loop of getting stuck, digging until it clicks, and ending up with something that *works* is what I love about it.
+
+Outside of code, I play the flute, play sports, and hang out with friends.
 
 ## Projects
 
 ### Utopia
 
-A personal productivity dashboard — todos, timesheet, notes, habits, calendar, email, and Google Drive in one place, with AI assistance built in. I designed and directed it, defined the features, and debugged it into a working product. It was my project for the **VS Hacks 2026** hackathon, and I'm now polishing it toward an MVP launch.
+A personal productivity dashboard — todos, timesheet, notes, habits, calendar, email, and Google Drive in one place, with AI assistance built in. I designed and directed it, defined the features, and debugged it into a working product. I'm now polishing it toward an MVP launch.
 
 ![Utopia dashboard](/assets/img/utopia-dashboard.png)
 
@@ -21,9 +25,9 @@ A personal productivity dashboard — todos, timesheet, notes, habits, calendar,
 **Results:** A live, working dashboard at [littleutopia.net](http://littleutopia.net/) with todos, a timesheet, notes, habits, a Pomodoro timer, a reading list, and an AI chat — targeting a full MVP launch by August 2026.
 
 **Tech:** Python
-[Live Demo](http://littleutopia.net/) · [VS Hacks Demo Video](https://www.youtube.com/watch?v=uDDa0_Ie7SI)
+[Live Demo](http://littleutopia.net/) · [Demo Video](https://www.youtube.com/watch?v=uDDa0_Ie7SI)
 
-[![Watch the Utopia VS Hacks demo](https://img.youtube.com/vi/uDDa0_Ie7SI/hqdefault.jpg)](https://www.youtube.com/watch?v=uDDa0_Ie7SI)
+[![Watch the Utopia demo](https://img.youtube.com/vi/uDDa0_Ie7SI/hqdefault.jpg)](https://www.youtube.com/watch?v=uDDa0_Ie7SI)
 
 ### [SidUtopia](https://github.com/sidpatil11/SidUtopia)
 
