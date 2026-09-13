@@ -4,11 +4,11 @@ layout: default
 
 ## About Me
 
-Hi, I'm Sid (Siddhant) Patil — a freshman in high school and a self-taught developer with about 4-5 years of coding experience. I work mainly in Java, Python, and HTML/CSS/JS, and I'm currently leveling up my Python skills for a bigger project I'm building.
+Hi, I'm Sid (Siddhant) Patil, a freshman in high school and a self-taught developer with about 4-5 years of coding experience. I work mainly in Java, Python, and HTML/CSS/JS, and I'm currently leveling up my Python skills for a bigger project I'm building.
 
-What keeps me hooked on coding is that it turns an idea into something real. I like building tools I actually use — a productivity app I open every day, and projects I put together with friends — and programming has a way of pulling my interests together, from music to just figuring out how things work. Every project teaches me something new, and that loop of getting stuck, digging until it clicks, and ending up with something that *works* is what I love about it.
+I really love coding because it gives me a way to fix something in my life. For example, I needed a way to organize my life and activities but other apps didn't use google (literally where I put everything) and they didn't have any other features. So I built an website for it (see Utopia). Its also really satisfying to see everything finally work after struggling.
 
-Outside of code, I play the flute, play sports, and hang out with friends.
+Outside of code, I play the flute, play basketball, play Rocket League (currently Diamond III) and hang out with my friends.
 
 ## Projects
 
